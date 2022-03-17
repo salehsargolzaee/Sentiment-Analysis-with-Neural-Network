@@ -24,7 +24,7 @@ that I made as a part of my Udacity deep learning nanodegree journey.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/salehsargolzaee/repo_name.git
+   git clone https://github.com/salehsargolzaee/Sentiment-Analysis-with-Neural-Network
    ```
 2. Change directory to repo folder
    ```sh
@@ -53,7 +53,7 @@ that I made as a part of my Udacity deep learning nanodegree journey.
 
 Saleh Sargolzaee - [LinkedIn](https://www.linkedin.com/in/saleh-sargolzaee) - salehsargolzaee@gmail.com
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/salehsargolzaee/repo_name)
+Project Link: [https://github.com/salehsargolzaee/Sentiment-Analysis-with-Neural-Network](https://github.com/salehsargolzaee/Sentiment-Analysis-with-Neural-Network)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
